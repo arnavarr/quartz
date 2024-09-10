@@ -360,7 +360,7 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    MSF{{<img src="https://navarro-bores.com/images/logo.jpg" width="30" height="30"> Management of Security Marco}}
+    MSF{{<img src="https://navarro-bores.com/images/logo.png" width="30" height="30"> Management of Security Marco}}
 
     subgraph Identity_Access_Management [Identity and Access Management]
         IAM1([🔒 Isolate Plane Management])
