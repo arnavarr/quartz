@@ -5,7 +5,7 @@ title: Marco Ciberseguridad
 
 # Prólogo
 
-* Ante la gravedad cada vez mayor de los ciberataques, en Tarlogic somos conscientes de la necesidad de ir un paso por delante. La emisión de un Marco de Seguridad  busca ofrecer los mecanismos que permitan garantizar la solidez en materia de ciberseguridad de nuestros clientes , a través del uso de controles en los dominios de Detección y Prevención.
+* Ante la gravedad cada vez mayor de los ciberataques, la emisión de un Marco de Seguridad  busca ofrecer los mecanismos que permitan garantizar la solidez en materia de ciberseguridad de nuestros clientes , a través del uso de controles en los dominios de Detección y Prevención.
 
 * El Marco articula controles apropiados y desarrollados con objeto de proporcionar orientación sobre cómo debe evaluarse el nivel de madurez de seguridad de una solución. La adopción e implementación del Marco es un paso vital para garantizar que se puedan gestionar adecuadamente las amenazas de seguridad.
 
@@ -105,7 +105,7 @@ La versión más actual del Marco hace uso de una estructura de cuatro niveles d
 
 ```mermaid
 flowchart TD
-    A{{<img src="https://navarro-bores.com/images/logo.jpg" width="30" height="30"> AI Security Considerations}}
+    A{{<img src="https://navarro-bores.com/images/logo.png" width="30" height="30"> AI Security Considerations}}
 
     subgraph MLOps_Security [MLOps AI Security]
         B([🔒 Security ML Code])
@@ -145,7 +145,7 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    ESF{{<img src="https://navarro-bores.com/images/logo.jpg" width="30" height="30"> External Security Marco}}
+    ESF{{<img src="https://navarro-bores.com/images/logo.png" width="30" height="30"> External Security Marco}}
 
     subgraph Unmanaged_Clients
         UC1([🔒 Zero trust endpoints])
@@ -204,7 +204,7 @@ flowchart TD
 ---
 ```mermaid
 flowchart TD
-    ISF{{<img src="https://navarro-bores.com/images/logo.jpg" width="30" height="30"> Infrastructure Security Marco}}
+    ISF{{<img src="https://navarro-bores.com/images/logo.png" width="30" height="30"> Infrastructure Security Marco}}
 
     subgraph Boundary_Security [Boundary Security]
         BS1([🔒 Boundary vertical filtering])
